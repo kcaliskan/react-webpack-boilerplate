@@ -9,8 +9,8 @@ React Webpack Boilerplate comes with pre-configured Webpack 4, Babel, ESlint and
 You ask good questions. 
 
 1. Clone the repo.
-2. Navigate the folder on the terminal.
-3. Run "npm install" on the command line
+2. Navigate the project folder on the terminal.
+3. Run `npm install` on the command line
 4. Good to go!
 
 ## Can I use the Webpack live server with this boilerplate?
@@ -27,6 +27,6 @@ Run the command: `npm run create`.
 
 After that you will see the `index_bundle.js` file under the `public` folder. Basically, drag and drop `public` folder the your ftp. Just kidding..(or not).
 
-# Thank you
-Keep coding,
+
+Keep coding,\
 -Kaan
