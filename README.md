@@ -27,6 +27,13 @@ Run the command: `npm run create`.
 
 After that you will see the `index_bundle.js` file under the `public` folder. Basically, drag and drop `public` folder the your ftp. Just kidding..(or not).
 
+## Did you add your ESLint rules or use pre-config?
+
+I use Airbnb's ESLint config. You can see it's details [here](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb).
+
+I also added Prettier and configured it to work with ESLint without having a problem.
+
+
 
 Keep coding,\
 -Kaan
