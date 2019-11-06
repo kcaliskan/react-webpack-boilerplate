@@ -1,7 +1,7 @@
 {
-  "name": "first-react-app",
+  "name": "react-webpack-boiler-plate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A bare minimum React 16, Webpack 4 and ESLint boilerplate",
   "main": "index.js",
   "babel": {
     "presets": [
@@ -18,7 +18,9 @@
   "license": "ISC",
   "dependencies": {
     "eslint-loader": "^3.0.2",
+    "faker": "^4.1.0",
     "prettier": "^1.18.2",
+    "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   },

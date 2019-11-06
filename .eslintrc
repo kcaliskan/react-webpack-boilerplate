@@ -1,24 +1,21 @@
 {
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["./src", "./node_modules"]
+      }
+    }
+  },
   "parser": "babel-eslint",
-  "extends": [
-    "airbnb",
-    "prettier"
-  ],
-  "plugins": [
-    "prettier"
-  ],
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
   "rules": {
-    "prettier/prettier": [
-      "error"
-    ],
+    "prettier/prettier": ["error"],
     "react/jsx-filename-extension": [
       1,
       {
-        "extensions": [
-          ".js",
-          ".jsx"
-        ]
+        "extensions": [".js", ".jsx"]
       }
-    ],
+    ]
   }
 }
