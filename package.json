@@ -2,7 +2,7 @@
   "name": "react-webpack-boiler-plate",
   "version": "1.0.0",
   "description": "A bare minimum React 16, Webpack 4 and ESLint boilerplate",
-  "main": "index.js",
+  "main": "./src/App.js",
   "babel": {
     "presets": [
       "@babel/preset-env",
